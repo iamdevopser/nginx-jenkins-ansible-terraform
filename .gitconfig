@@ -7,4 +7,5 @@
 [url "https://github.com/iamdevopser/nginx-jenkins-ansible-terraform.git"]
 	username = iamdevopser
 
-[credentialsId "Github"]
+[credentials]
+	Id = Github
