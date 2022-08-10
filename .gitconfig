@@ -3,7 +3,8 @@
 [user]
 	name = iamdevopser
 	email = iamdevopser@gmail.com
-[credential]
-	Id = Github
+	
 [url "https://github.com/iamdevopser/nginx-jenkins-ansible-terraform.git"]
 	username = iamdevopser
+
+[credentialsId "Github"]
