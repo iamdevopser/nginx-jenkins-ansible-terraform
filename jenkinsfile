@@ -18,7 +18,7 @@ pipeline {
       steps {
         script {
           if (params.Action == "apply") {
-            sh 'terraform init terraform/static-site'
+            sh 'terraform init nginx-jenkins-ansible-terraform/terraform/static-site/main.tf'
             sh 'terraform apply -var "name=hello" -var "group=web" -var "region=us-east-1" -var "profile=iamdevopser" --auto-approve terraform/static-site'
           } 
           else {
