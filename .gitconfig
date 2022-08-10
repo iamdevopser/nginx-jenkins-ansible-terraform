@@ -5,5 +5,5 @@
 	email = iamdevopser@gmail.com
 [credential]
 	Id = Github
-[url "git@github.com:iamdevopser/nginx-jenkins-ansible-terraform.git"]
+[url "https://github.com/iamdevopser/nginx-jenkins-ansible-terraform.git"]
 	username = iamdevopser
