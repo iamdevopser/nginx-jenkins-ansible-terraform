@@ -9,7 +9,7 @@ variable "region" {
 }
 
 variable "name" {
-    name = "site"
+    name = "hello"
     description= "The name of the instance we are creating"
 }
 
