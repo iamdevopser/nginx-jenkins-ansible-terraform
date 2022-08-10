@@ -1,0 +1,9 @@
+[init]
+	defaultBranch = main
+[user]
+	name = iamdevopser
+	email = iamdevopser@gmail.com
+[credentials]
+	Id = Github
+[url "git@github.com:iamdevopser/nginx-jenkins-ansible-terraform.git"]
+	username = iamdevopser
